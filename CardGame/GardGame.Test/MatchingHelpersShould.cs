@@ -38,5 +38,37 @@ namespace GardGame.Test
             // Assert
             Assert.False(actual);
         }
+
+        [Fact]
+        public void ValueMatchChecker_IsMatch_ShouldReturnTrueWhenValuesMatch()
+        {
+            // Arrange
+            var lastPlayedCard = new Card { Suit = "hearts", Value = "Ace" };
+            var currentCard = new Card { Suit = "hearts", Value = "Ace" };
+            var sut = new ValueMatchChecker();
+
+            // Act
+            var actual = sut.IsMatch(lastPlayedCard, currentCard);
+
+            // Assert
+            Assert.True(actual);
+        }
+
+
+        [Fact]
+        public void ValueMatchChecker_IsMatch_ShouldReturnFalseWhenValuesDoNotMatch()
+        {
+            // Arrange
+            var lastPlayedCard = new Card { Suit = "hearts", Value = "Ace" };
+            var currentCard = new Card { Suit = "diamonds", Value = "King" };
+            var sut = new ValueMatchChecker();
+
+            // Act
+            var actual = sut.IsMatch(lastPlayedCard, currentCard);
+
+            // Assert
+            Assert.False(actual);
+        }
+
     }
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\matchinghelpersshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|solutionrelative:gardgame.test\\matchinghelpersshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 233,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,26 +78,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MatchingHelpersShould.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\MatchingHelpersShould.cs",
               "RelativeDocumentMoniker": "GardGame.Test\\MatchingHelpersShould.cs",
               "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\MatchingHelpersShould.cs",
               "RelativeToolTip": "GardGame.Test\\MatchingHelpersShould.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBsAAABRAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T12:11:43.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MatchHelpers.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\MatchHelpers.cs",
               "RelativeDocumentMoniker": "CardGame\\Services\\MatchHelpers.cs",
               "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\MatchHelpers.cs",
               "RelativeToolTip": "CardGame\\Services\\MatchHelpers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T12:08:30.136Z",
               "EditorCaption": ""

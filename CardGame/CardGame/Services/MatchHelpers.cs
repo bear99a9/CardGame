@@ -15,5 +15,13 @@ namespace CardGame.Services
         }
     }
 
-    
+    public class ValueMatchChecker 
+    {
+        public bool IsMatch(Card lastPlayedCard, Card currentCard)
+        {
+            return true;
+        }
+    }
+
+
 }
