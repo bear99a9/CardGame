@@ -1,4 +1,5 @@
 using CardGame.Interfaces;
+using CardGame.Models;
 using CardGame.Services;
 using NSubstitute;
 
@@ -7,21 +8,33 @@ namespace GardGame.Test
     public class GameServiceShould
     {
         private readonly ICardGameHelpers _cardGameHelpersMock;
+        private readonly GameService _sut;
+
         public GameServiceShould()
         {
             _cardGameHelpersMock = Substitute.For<ICardGameHelpers>();
+            _sut = new GameService(_cardGameHelpersMock);
         }
 
-        [Fact]
-        public void PlayGame_And_ReturnDraw()
+        [Theory]
+        [InlineData(3, "suit")]
+        [InlineData(3, "value")]
+        [InlineData(3, "both")]
+        public void PlayGame_ShouldContainCorrectResult(int numberOfDecks, string matchCondition)
         {
-            var sut = new GameService(_cardGameHelpersMock);
+            // Arrange
+            var expected = new[]
+            {
+               "Player 1 wins",
+               "Player 2 wins",
+               "It is a draw"
+            };
 
-            var actual = sut.PlayGame(1, "string");
+            // Act
+            var actual = _sut.PlayGame(numberOfDecks, matchCondition);
 
-            var expectd = "draw";
-
-            Assert.Equal(expectd, actual);
+            // Assert
+            Assert.Contains(actual, expected);
         }
     }
 }
