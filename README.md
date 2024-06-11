@@ -74,4 +74,5 @@ The program should output the results by either declaring the winner, or a draw.
 - [ ] Refactor out the end of the PlayGame class to use a seperate method make it more testable and reusable.
 - [ ] Add global error handling.
 - [ ] Refactor the for/ foreach loops in the CreateDeck to use a linq statement.
-- [ ] The shuffle cards method could use the Fisher–Yates shuffle algorithm to improve performance. 
+- [ ] The shuffle cards method could use the Fisher–Yates shuffle algorithm to improve performance.
+- [ ] Look at the flow in the program and add correct handling of errors and/ or pull the code out into a testable class.
