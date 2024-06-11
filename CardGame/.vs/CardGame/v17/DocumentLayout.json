@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|solutionrelative:gardgame.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\gameserviceshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|solutionrelative:gardgame.test\\gameserviceshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,12 +63,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "GardGame.Test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\UnitTest1.cs",
-              "RelativeToolTip": "GardGame.Test\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "GameServiceShould.cs",
+              "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GameServiceShould.cs",
+              "RelativeDocumentMoniker": "GardGame.Test\\GameServiceShould.cs",
+              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GameServiceShould.cs*",
+              "RelativeToolTip": "GardGame.Test\\GameServiceShould.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T10:29:42.973Z",
               "EditorCaption": ""
@@ -64,6 +76,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "CardGame\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\GameService.cs",
+              "RelativeToolTip": "CardGame\\Services\\GameService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:37:59.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "CardGame\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Models\\Player.cs",
+              "RelativeToolTip": "CardGame\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:37:00.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "CardGame\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Models\\Card.cs",
+              "RelativeToolTip": "CardGame\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:36:09.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Program.cs",
               "RelativeDocumentMoniker": "CardGame\\Program.cs",

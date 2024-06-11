@@ -104,3 +104,5 @@ C:\Users\sean.edwards\source\repos\Match!\CardGame\GardGame.Test\obj\Debug\net8.
 C:\Users\sean.edwards\source\repos\Match!\CardGame\GardGame.Test\obj\Debug\net8.0\GardGame.Test.pdb
 C:\Users\sean.edwards\source\repos\Match!\CardGame\GardGame.Test\obj\Debug\net8.0\GardGame.Test.genruntimeconfig.cache
 C:\Users\sean.edwards\source\repos\Match!\CardGame\GardGame.Test\obj\Debug\net8.0\ref\GardGame.Test.dll
+C:\Users\sean.edwards\source\repos\Match!\CardGame\GardGame.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sean.edwards\source\repos\Match!\CardGame\GardGame.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
