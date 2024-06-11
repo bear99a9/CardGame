@@ -23,5 +23,13 @@ namespace CardGame.Services
         }
     }
 
+    public class BothMatchChecker 
+    {
+        public bool IsMatch(Card lastPlayedCard, Card currentCard)
+        {
+            return lastPlayedCard.Suit == currentCard.Suit && lastPlayedCard.Value == currentCard.Value;
+        }
+    }
+
 
 }
