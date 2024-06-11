@@ -1,5 +1,5 @@
 # Match!
-Tech test done in c# using .net 8 console app.
+Tech test done in c# using .net 8 console app and xunit tests.
 
 ## Game Setup
 1. Choose a number of packs of playing cards, and combine them into a single deck.
