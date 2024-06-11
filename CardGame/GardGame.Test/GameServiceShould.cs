@@ -31,10 +31,22 @@ namespace GardGame.Test
             };
 
             // Act
-            var actual = _sut.PlayGame(numberOfDecks, matchCondition);
+            var actual = _sut.PlayGame(numberOfDecks, GetMatchChecker(matchCondition));
 
             // Assert
             Assert.Contains(actual, expected);
         }
+
+        private static IMatchChecker GetMatchChecker(string matchOption)
+        {
+            return matchOption switch
+            {
+                "suit" => new SuitMatchChecker(),
+                "value" => new ValueMatchChecker(),
+                "both" => new BothMatchChecker(),
+                _ => throw new ArgumentException("Invalid match option")
+            };
+        }
+
     }
 }

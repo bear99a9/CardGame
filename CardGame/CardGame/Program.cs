@@ -27,7 +27,7 @@ namespace CardGame
                     var gameService = serviceProvider.GetRequiredService<GameService>();
 
                     Console.WriteLine("\n---------------------------------------------------------\n");
-                    Console.WriteLine($"\t\t\t{gameService.PlayGame(decks, matchOption)}");
+                    Console.WriteLine($"\t\t\t{gameService.PlayGame(decks, GetMatchChecker(matchOption))}");
                     Console.WriteLine("\n---------------------------------------------------------");
                 }
                 else
@@ -49,5 +49,17 @@ namespace CardGame
                 .AddSingleton<ICardGameHelpers, CardGameHelpers>()
                 .BuildServiceProvider();
         }
+
+        private static IMatchChecker GetMatchChecker(string matchOption)
+        {
+            return matchOption switch
+            {
+                "suit" => new SuitMatchChecker(),
+                "value" => new ValueMatchChecker(),
+                "both" => new BothMatchChecker(),
+                _ => throw new ArgumentException("Invalid match option")
+            };
+        }
+
     }
 }

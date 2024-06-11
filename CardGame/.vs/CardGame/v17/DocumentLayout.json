@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\gameserviceshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|solutionrelative:gardgame.test\\gameserviceshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\matchinghelpersshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|solutionrelative:gardgame.test\\matchinghelpersshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\gameserviceshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|solutionrelative:gardgame.test\\gameserviceshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\services\\matchhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\cardgamehelpersshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\services\\cardgamehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\services\\cardgamehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 233,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,33 +78,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MatchingHelpersShould.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\MatchingHelpersShould.cs",
               "RelativeDocumentMoniker": "GardGame.Test\\MatchingHelpersShould.cs",
               "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\MatchingHelpersShould.cs",
               "RelativeToolTip": "GardGame.Test\\MatchingHelpersShould.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFAAAAAVAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwFAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T12:11:43.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MatchHelpers.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\MatchHelpers.cs",
               "RelativeDocumentMoniker": "CardGame\\Services\\MatchHelpers.cs",
               "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\MatchHelpers.cs",
               "RelativeToolTip": "CardGame\\Services\\MatchHelpers.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAiAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T12:08:30.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CardGameHelpersShould.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\CardGameHelpersShould.cs",
               "RelativeDocumentMoniker": "GardGame.Test\\CardGameHelpersShould.cs",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CardGameHelpers.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\CardGameHelpers.cs",
               "RelativeDocumentMoniker": "CardGame\\Services\\CardGameHelpers.cs",
@@ -130,26 +130,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GameServiceShould.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GameServiceShould.cs",
               "RelativeDocumentMoniker": "GardGame.Test\\GameServiceShould.cs",
-              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GameServiceShould.cs",
-              "RelativeToolTip": "GardGame.Test\\GameServiceShould.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAfAAAA",
+              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GameServiceShould.cs*",
+              "RelativeToolTip": "GardGame.Test\\GameServiceShould.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T10:29:42.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameService.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\GameService.cs",
               "RelativeDocumentMoniker": "CardGame\\Services\\GameService.cs",
               "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Services\\GameService.cs",
               "RelativeToolTip": "CardGame\\Services\\GameService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwDwAAAAVAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T10:37:59.326Z",
               "EditorCaption": ""
@@ -182,13 +182,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Program.cs",
               "RelativeDocumentMoniker": "CardGame\\Program.cs",
               "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Program.cs",
               "RelativeToolTip": "CardGame\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAsAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T10:26:20.768Z",
               "EditorCaption": ""
