@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CardGame.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,8 +17,10 @@ namespace CardGame.Services
         public string PlayGame(int numberOfDecks, string matchCondtion)
         {
             // need to add players
+            var players = new List<Player>() { new() { Name = "Player 1" }, new() { Name = "Player 2" } };
 
             // need played cards list
+            var playedCards = new List<Card>();
 
             // need a deck of cards
 
