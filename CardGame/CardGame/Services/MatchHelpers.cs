@@ -1,4 +1,5 @@
-﻿using CardGame.Models;
+﻿using CardGame.Interfaces;
+using CardGame.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CardGame.Services
 {
-    public class SuitMatchChecker
+    public class SuitMatchChecker : IMatchChecker
     {
         public bool IsMatch(Card lastPlayedCard, Card currentCard)
         {
@@ -15,7 +16,7 @@ namespace CardGame.Services
         }
     }
 
-    public class ValueMatchChecker 
+    public class ValueMatchChecker : IMatchChecker
     {
         public bool IsMatch(Card lastPlayedCard, Card currentCard)
         {
@@ -23,7 +24,7 @@ namespace CardGame.Services
         }
     }
 
-    public class BothMatchChecker 
+    public class BothMatchChecker : IMatchChecker
     {
         public bool IsMatch(Card lastPlayedCard, Card currentCard)
         {
