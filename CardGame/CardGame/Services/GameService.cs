@@ -43,9 +43,12 @@ namespace CardGame.Services
                 }
                 else
                 {
-                    if (true) // match condtion selected
+                    var isMatch = (matchCondtion.ToLower() == "suit" && lastPlayedCard.Suit == card.Suit) ||
+                                    (matchCondtion.ToLower() == "value" && lastPlayedCard.Value == card.Value) ||
+                                    (matchCondtion.ToLower() == "both" && lastPlayedCard.Value == card.Value && lastPlayedCard.Suit == card.Suit);
+                    if (isMatch) // match condtion selected
                     {
-
+                        Console.WriteLine("it is a match!");
                     }
                     else
                     {
