@@ -1,4 +1,5 @@
 # Match!
+Tech test done in c# using .net 8 console app.
 
 ## Game Setup
 1. Choose a number of packs of playing cards, and combine them into a single deck.
@@ -39,3 +40,15 @@ The program should output the results by either declaring the winner, or a draw.
   - "hearts" ♥️, and
   - "spades" ♠️
 
+## User Stories
+- As a player, I want to choose the number of playing cards packs, So I can control the lenght of the game.
+- As a player, I want to choose the match condition, So I can control the rules of the game.
+- As a player, I want to be shown the result of the game, So I know the result.
+
+## Running the Program
+
+### Prerequisites
+
+- .NET SDK 8 installed on your machine.
+- 
+##Todo
