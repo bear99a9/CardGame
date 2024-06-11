@@ -42,5 +42,21 @@
                 }
             }
         }
+
+
+        [Fact]
+        public void CreateDecks_ShouldReturnCorrectNumberOfPacks()
+        {
+            // Arrange
+            int numPacks = 3;
+            int expectedCardCount = numPacks * 52; // 52 cards per deck
+
+            // Act
+            var actual = _sut.CreateDecks(numPacks);
+
+            // Assert
+            Assert.Equal(expectedCardCount, actual.Count());
+        }
     }
 }
+
