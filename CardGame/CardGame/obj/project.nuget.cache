@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dfAbpXPa0fknjtlrxKbERTrX/ibv7vCTzk4cjqZ7aICVZFX1a1SA6xcyV3mYj8sDSdlMivrFGsUIGhmR9YAKcg==",
+  "dgSpecHash": "HwHnvfkQsZdhCThE+s9PETrlJ6Umc1xhBbimJUrJk3KFQKLLYPTmU9BCm4LDDnSie+QA6j4sa5axtijupuf8yA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\CardGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

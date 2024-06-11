@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "m31Wl3tl+VMNWkCgXYdK36hBiOKaePGzRfmEMPd4ftAHnpfgEGK+Hirmf2VSEqrADT0E6kzlBEggAhbpUh83FA==",
+  "dgSpecHash": "+mDwXYWJR1++eI7Ur4slhviXZ3Dd0zsB6RTSbJfvD9oXGglDC7zO/jaBzhvyDiFE2mFiIrpLGwifE0RB6Mv6NA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GardGame.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sean.edwards\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
     "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
