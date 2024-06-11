@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GardGame.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40686ed6ec89b26c72e07435105be8a7bebbb4a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba33ce14113a5e2684befde6c774f32bbafb496b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GardGame.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GardGame.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
