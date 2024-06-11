@@ -16,11 +16,14 @@ namespace CardGame.Services
 
             var deck = new List<Card>();
 
-            foreach (var suit in suits)
+            for (int i = 0; i < numPacks; i++)
             {
-                foreach (var value in values)
+                foreach (var suit in suits)
                 {
-                    deck.Add(new Card() { Suit = suit, Value = value });
+                    foreach (var value in values)
+                    {
+                        deck.Add(new Card() { Suit = suit, Value = value });
+                    }
                 }
             }
 
