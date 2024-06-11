@@ -14,7 +14,17 @@ namespace CardGame.Services
             List<string> suits = ["hearts", "diamonds", "clubs", "spades"];
             List<string> values = ["Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King"];
 
-            return [];
+            var deck = new List<Card>();
+
+            foreach (var suit in suits)
+            {
+                foreach (var value in values)
+                {
+                    deck.Add(new Card() { Suit = suit, Value = value });
+                }
+            }
+
+            return deck;
         }
 
     }
