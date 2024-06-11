@@ -57,6 +57,19 @@
             // Assert
             Assert.Equal(expectedCardCount, actual.Count());
         }
+
+        [Fact]
+        public void ShuffleDeck_ShouldChangeOrderOfCards()
+        {
+            // Arrange
+            var acutal = _sut.CreateDecks(1);
+
+            // Act
+            var shuffledDeck = _sut.ShuffleDeck(acutal);
+
+            // Assert
+            Assert.False(acutal.SequenceEqual(shuffledDeck));
+        }
     }
 }
 
