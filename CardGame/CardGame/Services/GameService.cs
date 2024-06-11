@@ -1,17 +1,15 @@
 ﻿using CardGame.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using CardGame.Interfaces;
 
 namespace CardGame.Services
 {
     public class GameService
     {
-        public GameService()
+        private readonly ICardGameHelpers _gameHelpers;
+
+        public GameService(ICardGameHelpers gameHelpers)
         {
-            
+            _gameHelpers = gameHelpers;
         }
 
         public string PlayGame(int numberOfDecks, string matchCondtion)
@@ -23,16 +21,31 @@ namespace CardGame.Services
             var playedCards = new List<Card>();
 
             // need a deck of cards
+            var decks = _gameHelpers.CreateDecks(numberOfDecks);
 
             // need a shuffled deck of cards
+            var shuffledDecks = _gameHelpers.ShuffleDeck(decks);
 
             // foreach over the cards
+            foreach (var card in shuffledDecks)
+            {
 
-            // get the last played card check if it is null then add it to the played cards else check the match 
+                // get the last played card check if it is null then add it to the played cards else check the match 
+                var lastPlayedCard = playedCards.LastOrDefault();
 
-            // if matched select a random player add the score to the winner and clear the played cards
+                // if matched select a random player add the score to the winner and clear the played cards
 
-            // else add the card to played cards
+                // else add the card to played cards
+
+                if (lastPlayedCard == null)
+                {
+                    playedCards.Add(card);
+                }
+                else
+                {
+
+                }
+            }
 
             // after the foreach each return the string result with the player who has the most the points
 

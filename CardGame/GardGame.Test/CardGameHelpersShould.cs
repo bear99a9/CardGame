@@ -1,6 +1,4 @@
-﻿using CardGame.Interfaces;
-
-namespace GardGame.Test
+﻿namespace GardGame.Test
 {
     public class CardGameHelpersShould
     {

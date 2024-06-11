@@ -1,6 +1,6 @@
 ﻿using CardGame.Models;
 
-namespace CardGame.Services
+namespace CardGame.Interfaces
 {
     public interface ICardGameHelpers
     {

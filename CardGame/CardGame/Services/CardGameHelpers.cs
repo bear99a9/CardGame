@@ -1,12 +1,12 @@
-﻿using CardGame.Models;
-using CardGame.Services;
+﻿using CardGame.Interfaces;
+using CardGame.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CardGame.Interfaces
+namespace CardGame.Services
 {
     public class CardGameHelpers : ICardGameHelpers
     {
