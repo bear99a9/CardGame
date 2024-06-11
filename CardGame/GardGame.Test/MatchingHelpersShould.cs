@@ -23,5 +23,20 @@ namespace GardGame.Test
             // Assert
             Assert.True(actual);
         }
+
+        [Fact]
+        public void SuitMatchChecker_IsMatch_ShouldReturnFalseWhenSuitsDoNotMatch()
+        {
+            // Arrange
+            var lastPlayedCard = new Card { Suit = "hearts", Value = "Ace" };
+            var currentCard = new Card { Suit = "diamonds", Value = "King" };
+            var sut = new SuitMatchChecker();
+
+            // Act
+            var actual = sut.IsMatch(lastPlayedCard, currentCard);
+
+            // Assert
+            Assert.False(actual);
+        }
     }
 }
