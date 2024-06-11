@@ -43,7 +43,14 @@ namespace CardGame.Services
                 }
                 else
                 {
+                    if (true) // match condtion selected
+                    {
 
+                    }
+                    else
+                    {
+                        playedCards.Add(card);
+                    }
                 }
             }
 
