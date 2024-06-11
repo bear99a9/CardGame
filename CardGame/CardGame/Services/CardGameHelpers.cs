@@ -30,5 +30,11 @@ namespace CardGame.Services
             return deck;
         }
 
+        public IEnumerable<Card> ShuffleDeck(IEnumerable<Card> deck)
+        {
+            var random = new Random();
+            return deck.OrderBy(x => random.Next()).ToList();
+        }
+
     }
 }
