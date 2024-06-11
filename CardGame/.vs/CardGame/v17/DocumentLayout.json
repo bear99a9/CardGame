@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\gardgame.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6143258-1B12-47B1-BC78-71D6463BB99A}|GardGame.Test\\GardGame.Test.csproj|solutionrelative:gardgame.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|c:\\users\\sean.edwards\\source\\repos\\match!\\cardgame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC63F462-DF54-4B65-9EEE-539127C1FB3F}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 233,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GardGame.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\UnitTest1.cs",
+              "RelativeToolTip": "GardGame.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:29:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Program.cs",
+              "RelativeDocumentMoniker": "CardGame\\Program.cs",
+              "ToolTip": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\CardGame\\Program.cs",
+              "RelativeToolTip": "CardGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:26:20.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
