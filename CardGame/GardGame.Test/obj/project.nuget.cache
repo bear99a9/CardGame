@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7RvlTpikIoYVx6jff5wtkPj4jWnwGjN77DLKX8/FW7Y8tKQG6eUCtDuU8oDOWla1u2XStBxy6Evx4YVlRX2oqA==",
+  "dgSpecHash": "DXSRktvwIGA6Vq/gSAQ+5HoHzjIc+fuBcjzxXgNujVNPsjJstFKKZTzoZI2JQZG28fJdSqciSCj2SrPYuejEYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GardGame.Test.csproj",
+  "projectFilePath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\CardGame.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sean.edwards\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\sean.edwards\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

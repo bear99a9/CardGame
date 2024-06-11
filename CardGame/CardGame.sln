@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGame", "CardGame\CardGame.csproj", "{EC63F462-DF54-4B65-9EEE-539127C1FB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GardGame.Test", "GardGame.Test\GardGame.Test.csproj", "{E6143258-1B12-47B1-BC78-71D6463BB99A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGame.Test", "GardGame.Test\CardGame.Test.csproj", "{E6143258-1B12-47B1-BC78-71D6463BB99A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

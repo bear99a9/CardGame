@@ -5774,9 +5774,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GardGame.Test.csproj",
-      "projectName": "GardGame.Test",
-      "projectPath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\GardGame.Test.csproj",
+      "projectUniqueName": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\CardGame.Test.csproj",
+      "projectName": "CardGame.Test",
+      "projectPath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\CardGame.Test.csproj",
       "packagesPath": "C:\\Users\\sean.edwards\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sean.edwards\\source\\repos\\Match!\\CardGame\\GardGame.Test\\obj\\",
       "projectStyle": "PackageReference",
