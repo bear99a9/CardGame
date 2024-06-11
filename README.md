@@ -48,7 +48,30 @@ The program should output the results by either declaring the winner, or a draw.
 ## Running the Program
 
 ### Prerequisites
-
 - .NET SDK 8 installed on your machine.
-- 
-##Todo
+
+### How to Run
+
+1. Navigate to the project directory: ```cd CardGame ```
+
+2. Build the game: ```dotnet build```
+
+3. Run the game: ```dotnet run```
+
+4. Follow the on-screen instructions to play the game:
+![ALT TEX](https://github.com/bear99a9/CardGame/blob/main/ReadmeImageGame.png "Game ScreenShot")
+
+### How to run the tests
+
+1. Navigate to the project test directory: ```cd CardGame.Test ```
+
+2. Run the tests: ```dotnet Test```
+
+3. Results displayed like:
+![ALT TEX](https://github.com/bear99a9/CardGame/blob/main/ReadmeImageTest.png "Testing ScreenShot")
+
+## Improvements/ Todo
+- [ ] Refactor out the end of the PlayGame class to use a seperate method make it more testable and reusable.
+- [ ] Add global error handling.
+- [ ] Refactor the for/ foreach loops in the CreateDeck to use a linq statement.
+- [ ] The shuffle cards method could use the Fisher–Yates shuffle algorithm to improve performance. 
