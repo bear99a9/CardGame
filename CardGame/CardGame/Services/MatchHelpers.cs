@@ -11,7 +11,7 @@ namespace CardGame.Services
     {
         public bool IsMatch(Card lastPlayedCard, Card currentCard)
         {
-            return true;
+            return lastPlayedCard.Suit == currentCard.Suit;
         }
     }
 
