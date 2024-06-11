@@ -1,15 +1,18 @@
 ﻿using CardGame.Models;
 using CardGame.Interfaces;
+using System;
 
 namespace CardGame.Services
 {
     public class GameService
     {
         private readonly ICardGameHelpers _gameHelpers;
+        private readonly Random _random;
 
         public GameService(ICardGameHelpers gameHelpers)
         {
             _gameHelpers = gameHelpers;
+            _random = new Random();
         }
 
         public string PlayGame(int numberOfDecks, string matchCondtion)
@@ -48,7 +51,9 @@ namespace CardGame.Services
                                     (matchCondtion.ToLower() == "both" && lastPlayedCard.Value == card.Value && lastPlayedCard.Suit == card.Suit);
                     if (isMatch) // match condtion selected
                     {
-                        Console.WriteLine("it is a match!");
+                        var winner = players[_random.Next(0, 2)];
+                        winner.Score += playedCards.Count + 1;
+                        playedCards.Clear();
                     }
                     else
                     {
@@ -59,7 +64,8 @@ namespace CardGame.Services
 
             // after the foreach each return the string result with the player who has the most the points
 
-            return "draw";
+            return players.First().Score == players.Last().Score ? "It is a draw" :
+                players.First().Score > players.Last().Score ? "Player 1 wins" : "Player 2 wins";
         }
     }
 }
