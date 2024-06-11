@@ -1,13 +1,14 @@
 ﻿using CardGame.Models;
+using CardGame.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CardGame.Services
+namespace CardGame.Interfaces
 {
-    public class CardGameHelpers
+    public class CardGameHelpers : ICardGameHelpers
     {
         public IEnumerable<Card> CreateDecks(int numPacks)
         {
