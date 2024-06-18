@@ -41,7 +41,7 @@ The program should output the results by either declaring the winner, or a draw.
   - "spades" ♠️
 
 ## User Stories
-- As a player, I want to choose the number of playing cards packs, So I can control the lenght of the game.
+- As a player, I want to choose the number of playing cards packs, So I can control the length of the game.
 - As a player, I want to choose the match condition, So I can control the rules of the game.
 - As a player, I want to be shown the result of the game, So I know the result.
 
@@ -72,7 +72,8 @@ The program should output the results by either declaring the winner, or a draw.
 
 ## Improvements/ Todo
 - [ ] Refactor out the end of the PlayGame class to use a seperate method make it more testable and reusable.
+- [ ] Mock randmoness in the GameServiceShould to correctly test each outcome.
 - [ ] Add global error handling.
 - [ ] Refactor the for/ foreach loops in the CreateDeck to use a linq statement.
 - [ ] The shuffle cards method could use the Fisher–Yates shuffle algorithm to improve performance.
-- [ ] Look at the flow in the program and add correct handling of errors and/ or pull the code out into a testable class.
+- [ ] Look at the flow in the program.cs and add correct handling of errors and/ or pull the code out into a testable class.
